@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GK_Zadanie1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GK_Test.cpp
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(227,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(238,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(253,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(254,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(315,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(316,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(323,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(325,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(326,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(892,19): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(951,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(955,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(985,49): warning C4244: 'argument': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(994,51): warning C4244: 'argument': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1005,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1012,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1022,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1027,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1085,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michal\source\repos\GK_Test\GK_Test\GK_Test.cpp(1092,80): warning C4305: 'argument': truncation from 'double' to 'float'
+  GK_Zadanie1.vcxproj -> C:\Users\Michal\source\repos\GK_Test\Debug\GK_Test.exe
